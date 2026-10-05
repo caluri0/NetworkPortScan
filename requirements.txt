@@ -1,0 +1,8 @@
+# Ce projet n'utilise que la bibliothèque standard Python pour le scanner.
+# Aucune dépendance externe requise pour l'exécution.
+#
+# Python >= 3.10 recommandé (utilisation de type hints modernes : X | Y)
+#
+# Optionnel — générer le guide PDF d'apprentissage :
+#   pip install fpdf2
+#   python docs/generate_learning_pdf.py
